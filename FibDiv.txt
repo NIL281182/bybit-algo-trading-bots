@@ -1,0 +1,924 @@
+P FibDiv   
+ i  
+fa 1.  FibDiv
+g 2.  ) -/-
+
+a)         Save-
+             
+o           .  
+r      
+      3. 
+      Buy/Sell
+             BTC
+t     
+
+)    
+
+r   
+a    .  
+
+     A-B-C-D .  
+
+de      
+  
+
+    
+Pif ,   
+
+   
+
+a    Forex
+g    
+o   
+
+    
+
+r    
+
+   
+
+t  
+r     
+a   
+
+     
+
+de  1
+1.   FibDiv
+
+                     D Take
+   B
+
+              C
+
+             long
+
+A                  stop-loss
+  Pi2.f             
+a                 
+                ,     
+               FibDiv    
+                   
+.g             .
+  .
+ .      trade    
+                   
+or   .           .
+      
+               FibDiv    
+                :
+ ()  
+                 1.   
+.                2.   
+  
+,                   
+ .             .
+P                                     3 >2
+ if  :                      12
+ag 1.    
+               Low
+,  , 3  
+
+o  .
+r 2.  (1)  , 
+
+    
+
+t .
+r 3.  (2)   ,  
+a  (1).
+de 4.  (3)   
+(2).
+P                                                        3 >2
+                                           12
+                              Low
+if  :
+ag 1.     .
+o 2.    .
+r 3.   (3)  
+t (2),  LOW  (1)
+r  ,  
+a   , 
+d HIGH (2),  
+e .
+Pifagor trade  - :
+P                      High
+ if  :
+ag 1.          1
+                   2
+,  , 3                  3 <2
+
+o  .
+r 2.  (1)  , 
+
+    
+
+t .
+r 3.  (2)   ,  
+a  (1).
+de 4.  (3)   
+(2).
+P                                  High
+                           
+                           1
+if  :                          2
+ag 1.     .                             3 <2
+o 2.    .
+r 3.   (3)  
+t (2),  HIGH  (1)
+r  ,  
+a   , 
+d LOW (2), 
+e  .
+Pifagor trade  - :
+            
+
+P  .
+if    :
+ag 1.  ()  
+   .BTC/USDT 1M TF:
+
+o 2.     
+       .
+
+r 3.    
+
+  ""
+
+t 4.   ""  
+r 
+a 5.     
+
+   ,   - 
+
+de 
+Pi : *                                    MAX
+ f  
+  a                                                                MAX
+   g                                                       MIN
+
+                                          
+                                   
+
+or t MIN
+rade 1.    ( 
+)
+
+:    ,      *
+P  : 
+                                                        
+ if
+                                
+ag ! ""                                                   MAX
+
+o 
+r MIN                                                             
+                                                                        
+
+t 2.        ,        
+r .
+
+:
+
+a     ,    - .
+
+            .
+
+d        . ,      
+e  .
+    ,     .
+
+    
+Pif :                         MAX                                  
+ a                                                                    
+                                                                    
+                        
+                                                                          " 3 "
+go   ,    
+                                   MIN
+ ,                                             MAX
+  , ..   
+
+r    
+tr MIN
+ade     ,   
+   
+Pif :  MAX
+ a   
+  g  
+       or     ,
+                    
+
+                
+                     
+
+t MIN
+       r 
+a 3.        () (MIN),   MIN
+d    ,       3 .        MAX
+e :
+ 3 ,     , -    .
+
+      (),         .  
+
+    .
+MAXPifag ort: r MIN
+
+        
+          
+               
+
+       ,                  
+          3 ,          
+                    (), 
+            
+                           
+     ,               
+           
+                         
+
+ade 4.         1D TF 
+  .
+Pi : MAX
+fagor tr MIN
+                  
+              
+            ,    
+
+                      3 
+ade 4.        
+    1D TF    .
+MAXPif    ,  
+                         , 
+  a  
+                               
+  g .  ,
+                         
+                               
+   o 
+r tr MIN
+ad   ,   - ,  MIN
+e     ,    
+ .     .
+Pifag MAX
+ :
+
+                                                              MAX
+
+or tr MIN                                                          MIN
+
+ad 5.    1D TF
+e   TF c 1M  1D      ,      
+   ,   
+Pifagor   
+                      1D TF
+
+           1.     
+
+         trade 2.     
+                
+            
+            3.      
+             ,    
+              1
+
+            4.     
+                 
+            
+ BTC/USDT 1M TF:
+
+Pifagor tra     1D TF,  
+d ,   1 TF    . 
+e   .
+Pifa   
+  go 
+r                
+  tra            
+               " "
+                  
+                   
+
+                ,   
+                 
+              .     
+                .
+
+                 " "
+    de      
+
+        
+P /   MAX
+ if Sell
+
+                                                                                                                                                        zone
+
+                                                                                                                                                                                     Buy
+
+    a zone
+goBuy
+r zone
+ tr MIN      MIN
+ad     
+e     Buy; 
+                      
+                    
+
+  -    Sell
+PifaBugy/Sell BuySell          Buy
+   or zone       zone          zone
+trad     
+e      (Long/Short)Sell
+                  zone
+
+                         Sell
+                        zone
+
+                                    , 
+                                    Buy
+
+                                    , 
+
+                                    Sell
+Pif /       ,MAX
+                 
+a     Buy  Sell           Sell
+g                        zone                         
+or t     .Buy                                    , 
+zone                                  Buy        ,   
+                                     zone
+                                                    .
+                 MIN                            
+
+                                                                  Sell  Buy*
+
+                                           * ,   
+                                                   ,   
+
+                                           ,   
+                                               
+                                                         Sell
+ r MIN
+ad    
+e        
+                  
+
+                    ,
+
+( 1M )              
+
+                    
+Pi /   (1D TF) Buy
+   fazone
+    
+    .
+  
+  . 
+ 
+    g Sell    
+    o zone    .
+r           
+              
+           ,  
+.  
+ Buy
+zone
+
+tra       :
+de             
+ ,        (  
+
+   ),   (   ,  .....)
+Pi /   (1D TF) Sell
+   fazone
+go                    
+r                  , ,  
+                       
+ . Sell zone          . Sell
+,                  zone .
+  .
+
+t   
+
+ ,   
+   .
+ra        :Sell
+d           ,    ,zone
+e      ,         
+     
+Pifa           (
+g   )
+o    ,     
+
+   
+
+r   ,    
+t 
+r     -     ,
+a   
+de     
+
+      
+   
+
+Pifa    TV
+      g   
+        o
+          r  
+
+                                                 
+
+          t  : 0.86 , 0.78 ,
+          r 0.618 (.  )
+          ade    
+Pifa D Take
+    g B
+   
+
+or trade A C long   
+
+stop-loss               ABCD, :
+
+                      -   
+                      
+                      
+                      -  
+                      
+                      -   
+                       
+                     
+                     D -   
+                       
+                      -
+                     
+Pifa A stop-loss
+   
+
+gor t B           C                  
+
+                       short             ABCD, :
+
+                                       -   
+                                       
+                                       
+                                       -  
+                                       
+                                       -   
+                                        
+                                      
+                                      D -   
+                                        
+                                       -
+                              rade DTake
+
+                                    
+Pifa    
+                    
+   g D                    .
+ o B                        0.618 
+  r C
+t A     B                                                                D  B
+                                                B
+          1                                                                   1
+                      3                                 C
+                         A                                                             0.618
+              2
+r        :
+a  -    Long;  -   
+
+Short.
+
+d   2  3     
+
+  1  .
+
+e 2  3     ,   3 
+                           ,   0.618 
+                             
+                             ,  ...
+                          
+
+  2.
+
+    ..
+Pifa    
+                    
+go A                          .
+                          C     0.618 
+
+       r 1  3                A                                2
+        2                                              C
+               B                                                      0.618
+
+  t D                                                     1
+      r B
+
+       :
+
+a  -    Long;  -   
+
+Short.
+
+d   2  3     
+
+  1  .
+
+e 2  3     ,   3 
+                                    B
+                                                                D
+
+                                                             B
+
+                               ,   0.618 
+                                 
+                                 ,  ...
+                              
+
+  2.
+
+    ..
+P A-B-C-D /   D>
+ i     
+
+             ,     ,
+
+ f       
+   ag B*
+   or *
+t 1C
+   2
+r 3
+a A
+d  B ,    
+e              
+,        ,    -   
+
+   ,     
+      *P A-B-C-D /   A
+ ifag C
+12 3
+
+ or B*
+ t >
+ r      
+
+         ,     ,
+
+a       
+                                                                   D
+
+d  B ,    
+e              
+,        ,    -   
+
+   ,     
+P  -0.618
+ifa -0.27
+    g -0.18   FibDiv 
+      
+                                                                      0    :
+
+      or0.236  D
+
+                                                                                                        0.3820.236-0.618
+      0.382  -0.618
+          t0.5-0.618
+          r 0.6180.5
+          a 0.786
+      0.618  -0.618
+                                                                                                        0.86
+      0.786  -0.27
+          de 1-0.18
+      0.86
+        1       0
+
+   (D) ,   
+        
+     
+    ,   ,
+
+,    0.786,    
+
+  -0.18 ,     
+
+0.86
+Pi  1       FibDiv 
+   f 0.86   
+     a 0.786    :
+       g 0.618
+              D
+                                                                                                                               0.5
+      0.236  -0.618
+         o 0.3820.382-0.618
+           r0.236-0.618
+            t00.5
+            r -0.18
+      0.618  -0.618
+                                                                                                                               -0.27
+      0.786  -0.27
+            ade -0.618-0.18
+      0.86
+        1       0
+
+   (D) ,   
+        
+     
+    ,   ,
+,    0.786,    
+
+  -0.18 ,     
+
+0.86
+P   A             D                 
+ if                             D   
+ ag                                   0.5
+ or trade                           , 
+                                     
+                                    
+                                     
+                                    (D) 
+                                      
+                                     
+
+A
+P   1.11.2      D
+if 
+ ag                     1.1 
+o A                   
+r 2.1                   
+A                     0.618  
+   t                  .
+   r 2.2           D    1.2 
+ ade A                  
+                        
+                         
+                       .
+A                      (D) 
+                      : -0.27
+
+                         2.1 
+                       
+                        
+                        
+                        .
+                         1.2 
+                         
+                         
+                          
+                        .
+                        (D) 
+                       : -0.27
+Pi.     ,                                                                           trade       -0.618
+ f    , 
+ a                                                                                    (2)  (1)  -0.27
+                                                                                                -0.18
+          , 
+                                                                                                0
+ g   
+ o .                                                                                            0.236
+                                                                                                0.382
+           
+                                                                                                0.5
+ r    
+                                                                                                0.618
+         /  
+                                                                                                0.786
+            .                                                                                   0.86
+            
+           ,   ,
+             
+          .
+            
+
+(1)  (2).                                                                                       1
+
+                                                                                 A
+Pifagor     .  tr ade  -0.618
+      
+                       -0.27
+                       -0.18
+          
+        .              0
+          - 
+                       0.236
+         .             0.382
+          
+        ,              0.5
+           
+          .            0.618
+          
+        .              0.786
+        -              0.86
+
+  1.            
+
+      A                1
+Pi -/-   
+ fag 
+o - ,
+r   
+t 
+r -
+a  
+de  1
+          Save-
+
+   
+  SL.  
+ -   
+-    1
+  ,  
+ 
+ ,  
+ ,    
+,     SL
+    
+
+    /
+  Pif 1.1
+
+ag       D  1.2          D
+  or 
+                 
+                       
+tr A
+ad   
+e  , 
+               A ()
+
+              
+             
+
+             
+Pi .   BTC/USDT 1H:
+ fag 
+or tr A BTC/USDT 1D:
+
+                                                
+                                          
+
+              
+            ,  
+ad       (1 
+e ),   
+    ,       
+
+    
+Pif a.   BTC/USDT 1D:
+BTC/USDT 1D:
+
+gor trad                   
+e                      
+
+                                      
+                                
+
+                                      
+                                  
+
+      , 
+ 
+      
+
+,      . 
+
+ ,  1
+P .   BTC/USDT 1H:
+  ifa  
+  gor 
+                                   D
+  
+
+       
+      tra A
+d      
+e    
+       
+      
+
+
+P .   BTC/USDT 1H:
+ifa     
+g         o    D
+
+ 
+
+ 
+
+           r 
+
+      tra A
+d      
+e    
+                  
+                 
+
+
+Pifag3.
+      or trade   BTC
+P  BTC/USDT 1M:
+ifagor t Sell
+       rade zoneBuy
+         zone
+
+                                          
+                                   Buy.
+
+                                     
+                             ,     
+
+                                          
+
+              
+
+    Buy       
+          DBPTC/USDT 1D:    .  D
+i    
+                0.236      -0.618
+                  0.382    -0.618
+                           -0.618
+f  ,               0.5
+                 0.618     -0.618
+    a                      -0.27
+                 0.786     -0.18
+gor trade A      0.86
+                               0
+                    1
+BPTC/USDT 1D:      
+  i    , 
+f    
+a             D
+
+     (4, 1),
+      gor 
+trade A
+
+                                 D
+
+                        0.236      -0.618
+                         0.382     -0.618
+                                   -0.618
+                           0.5
+                         0.618     -0.618
+                                   -0.27
+                         0.786     -0.18
+                         0.86
+                                       0
+                            1
+BPTC/UiSDT 1D:  D
+   fa
+gor   .                
+                            Long 
+                                             
+
+  trade A                      D
+           
+                      0.236      -0.618
+                       0.382     -0.618
+                                 -0.618
+                         0.5
+                       0.618     -0.618
+                                 -0.27
+                       0.786     -0.18
+                       0.86
+                                     0
+                          1
+          DBPTC/UiSDfT 1aD:       
+gor trade A            FibDiv  
+
+                  
+
+                         D
+
+                0.236      -0.618
+                 0.382     -0.618
+                           -0.618
+                   0.5
+                 0.618     -0.618
+                           -0.27
+                 0.786     -0.18
+                 0.86
+                               0
+                    1
+P  BTC/USDT 4H:D
+ ifag                                                              D
+
+                                                     
+ or 
+tr A             
+ad       
+e ,                                                                    D
+
+                      0.236                                              -0.618
+                       0.382                                             -0.618
+                                                                         -0.618
+                         0.5                                             -0.618
+                       0.618
+
+                   0.786                                              -0.27
+
+                   0.86                                               -0.18
+
+                   1                                                  0
+Pifago  .
+  r trade   !
+
